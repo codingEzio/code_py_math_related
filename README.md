@@ -1,2 +1,1 @@
-# code_python_learn_math
-Learning math with Python. 
+> Learning math with Python. 
